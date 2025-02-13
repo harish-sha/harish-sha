@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Openshift**
 
-- 👯 I’m looking to collaborate on **SAAS & CPAAS projects**
+- 👯 I’m looking to collaborate on **Saas & Cpaas projects**
 
 - 🤝 I’m looking for help with **SAAS**
 
